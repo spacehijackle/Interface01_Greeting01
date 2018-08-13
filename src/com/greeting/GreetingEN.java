@@ -1,6 +1,4 @@
-package greeting;
-
-import com.greeting.Greeting;
+package com.greeting;
 
 /**
  * 挨拶の実装（英語）

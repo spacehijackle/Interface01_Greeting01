@@ -4,9 +4,8 @@ import java.util.Calendar;
 import java.util.Locale;
 
 import com.greeting.Greeting;
-
-import greeting.GreetingJA;
-import greeting.GreetingEN;
+import com.greeting.GreetingEN;
+import com.greeting.GreetingJA;
 
 /**
  * 国際化対応した（つもり）の挨拶プログラム
