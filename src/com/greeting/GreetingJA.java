@@ -10,18 +10,18 @@ public class GreetingJA implements Greeting
 	@Override
 	public String getMorning()
 	{
-		return "おはようございます";
+		return "おはようさんどす";
 	}
 
 	@Override
 	public String getAfternoon()
 	{
-		return "こんにちは";
+		return "ごきげんさんどす";
 	}
 
 	@Override
 	public String getEvening()
 	{
-		return "こんばんわ";
+		return "おばんどす";
 	}
 }
